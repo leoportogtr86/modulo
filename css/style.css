@@ -1,0 +1,33 @@
+#machine {
+
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    cursor: pointer;
+}
+
+input{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    font-size: 40px;
+}
+
+*{
+
+    font-family: Arial, Helvetica, sans-serif;
+    
+    text-transform: uppercase;
+}
+
+#resultado{
+
+    width: 100px;
+    height: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 50px;
+    
+}
